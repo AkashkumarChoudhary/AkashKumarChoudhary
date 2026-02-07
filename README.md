@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my [Backend Project](https://github.com/AkashkumarChoudhary/Backend_Project)
 
-- 🌱 I’m currently learning **Reactjs, Nextjs Aws etc.**
+- 🌱 I’m currently learning **Reactjs, OpanAPI, Aws etc.**
 
 - 👯 I’m looking to collaborate on [100xDevs-hkirat](https://github.com/100xDevs-hkirat)
 
